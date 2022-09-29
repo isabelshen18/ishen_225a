@@ -9,4 +9,4 @@ Data science lectures 225A 2022 Fall
 
 - `results` = plots and table resulting from analysis
 
--`src`= source code files
+- `src`= source code files
